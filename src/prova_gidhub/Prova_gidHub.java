@@ -15,7 +15,7 @@ public class Prova_gidHub {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int a = 0;
+        char a = 0;
        while(true){
            System.out.println("ehi ciao "+a);
            a++;
